@@ -1,0 +1,2 @@
+# JuneDB
+Simple KV Store
